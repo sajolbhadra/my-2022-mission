@@ -86,3 +86,14 @@ section{
 .justify{
     padding: 0 20px 20px 0px;
 }
+
+
+
+
+/* ------------------Footer---------------------- */
+footer{
+    background-color: black;
+    color: #fff;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
