@@ -102,6 +102,21 @@ section{
     color: white;
 }
 
+/* shapes
+.circle{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    padding-left: ;
+    
+}
+.circle2{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+} */
+
+
+
+
 /* ------------------Footer---------------------- */
 footer{
     background-color: black;
