@@ -1,13 +1,10 @@
 body{
     margin: 0px;
-
 }
+
 /* --------------Header----------------- */
 header{
-    display: flex;
-    padding: 0px 20px 20px 100px;
-    align-items: center;
-    justify-content: center;
+    /* padding: 20px 20px 20px 100px; */
 }
 header div div{
 
@@ -31,8 +28,8 @@ header div div h1{
 header img{
     height: 600px;
 }
-.text-pink{
-    color: #e91e63;
+.text-golden{
+    color: goldenrod;
     font-size: 50px;
     /* font-weight: 900px; */
  
@@ -61,7 +58,7 @@ header img{
     justify-content: center;
     padding: 20px 20px ;
     margin: 20px 150px;
-    border: 1px solid #e91e63;
+    /* border: 1px solid #e91e63; */
     border-radius: 40px;
 }
 .img-coding{
@@ -86,8 +83,21 @@ section{
 .justify{
     padding: 0 20px 20px 0px;
 }
-
-
+.bg-1{
+    background-color: #fbeeff;
+}
+.bg-2{
+    background-color: #fffaee;
+}
+/* .bg-3{
+    background-color: #fcffee;
+} */
+.bg-3{
+    background-color: #ffeeee;
+}
+.bg-4{
+    background-color: #fff5ee;
+}
 
 
 /* ------------------Footer---------------------- */
@@ -96,4 +106,8 @@ footer{
     color: #fff;
     padding-bottom: 50px;
     padding-top: 20px;
+    width: 100%;
+    @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+    font-family: 'Lobster', cursive;
+
 }
