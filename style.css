@@ -42,7 +42,7 @@ header img{
     color: #fff;
     border: 1px solid #e91e63;
     padding: 10px 20px ;
-    border-radius: 10px;
+    border-radius: 5px;
     margin-bottom: 20px;
 }
 .flex{
@@ -63,4 +63,26 @@ header img{
     margin: 20px 150px;
     border: 1px solid #e91e63;
     border-radius: 40px;
+}
+.img-coding{
+    height: 500px;
+    border-radius: 50px;
+}
+.half-width{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px 20px ;
+    margin: 20px 150px;
+}
+section{
+    padding-bottom: 50px;
+    margin-top: 0;
+}
+.font-50{
+    font-size: 50px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.justify{
+    padding: 0 20px 20px 0px;
 }
