@@ -95,7 +95,10 @@ section{
 .bg-4{
     background-color: #fff5ee;
 }
-
+.link{
+    text-decoration: none;
+    color: white;
+}
 
 /* ------------------Footer---------------------- */
 footer{
